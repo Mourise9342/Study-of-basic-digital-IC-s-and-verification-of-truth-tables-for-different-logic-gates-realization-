@@ -79,15 +79,16 @@ endmodule
 
 ```
 
-###Logic symbol
-
-##TRUTH TABLE
-
-![gates](https://user-images.githubusercontent.com/120081893/231416089-7afb62e7-df67-4c78-b828-8b9485704771.jpg)
-
+##LOGIC SYMBOL:
 ##RTL realization
 
 ![digital](https://user-images.githubusercontent.com/120081893/231415935-0a37d260-a3d3-4f1b-a76b-4f9e2d0f9f48.png)
+
+#TRUTH TABLE
+
+![gates](https://user-images.githubusercontent.com/120081893/231416089-7afb62e7-df67-4c78-b828-8b9485704771.jpg)
+
+
 
 Output:
 
