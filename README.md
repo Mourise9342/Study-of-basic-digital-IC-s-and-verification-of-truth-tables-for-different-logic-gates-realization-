@@ -80,6 +80,7 @@ endmodule
 ```
 
 ##LOGIC SYMBOL:
+
 ##RTL realization
 
 ![digital](https://user-images.githubusercontent.com/120081893/231415935-0a37d260-a3d3-4f1b-a76b-4f9e2d0f9f48.png)
