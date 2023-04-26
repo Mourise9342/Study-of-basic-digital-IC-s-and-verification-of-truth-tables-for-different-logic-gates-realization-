@@ -80,6 +80,7 @@ endmodule
 ```
 
 Logic symbol 
+##TRUTH TABLE
 ![gates](https://user-images.githubusercontent.com/120081893/231416089-7afb62e7-df67-4c78-b828-8b9485704771.jpg)
 
 RTL realization
